@@ -1,0 +1,4 @@
+cores
+=====
+
+Tareas pendientes CORES
